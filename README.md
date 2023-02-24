@@ -1,7 +1,7 @@
 
 # mdx-ice_cubes
 
-A very basic, 95% I'm sure broken and not working, script that utilizes ox_target to give an RP sense of getting ice cubes in a bar.
+A very basic, 95% I'm sure broken and not working, script that utilizes ox_target to give a RP sense of getting ice cubes in a bar.
 
 This script was created as a joke.
 
